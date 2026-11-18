@@ -2,11 +2,6 @@
 
 **Embedded and systems developer · Computer Science at KTU · Co-founder of [Thunderclap Labs](https://thunderclaplabs.com)**
 
-![location](https://img.shields.io/badge/Kaunas,_Lithuania-0D1117?style=flat-square&labelColor=0D1117)
-![study](https://img.shields.io/badge/KTU-CS_·_2nd_year-4DAACC?style=flat-square&labelColor=0D1117)
-![role](https://img.shields.io/badge/co--founder-Thunderclap_Labs-FF5F1F?style=flat-square&labelColor=0D1117)
-![status](https://img.shields.io/badge/status-available_2026-4DAACC?style=flat-square&labelColor=0D1117)
-
 I build software that runs close to the hardware: C services on OpenWrt routers, firmware for ESP32 and STM32 boards, and the backend and web tools around them. At Thunderclap Labs, a student R&D startup at Kaunas University of Technology, I work on embedded systems and hardware prototypes.
 
 [migle.cirtautai.lt](https://migle.cirtautai.lt) · [thunderclaplabs.com](https://thunderclaplabs.com)
