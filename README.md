@@ -1,58 +1,55 @@
-# Hey, i'm Miglė 👋
+# Miglė Cirtautaitė
 
-![status](https://img.shields.io/badge/status-available_2026-4DAACC?style=flat-square&labelColor=0D1117)
-![location](https://img.shields.io/badge/Kaunas_→_LT-0D1117?style=flat-square&labelColor=0D1117)
-![role](https://img.shields.io/badge/co--founder-Thunderclap_Labs-FF5F1F?style=flat-square&labelColor=0D1117)
+**Embedded and systems developer · Computer Science at KTU · Co-founder of [Thunderclap Labs](https://thunderclaplabs.com)**
+
+![location](https://img.shields.io/badge/Kaunas,_Lithuania-0D1117?style=flat-square&labelColor=0D1117)
 ![study](https://img.shields.io/badge/KTU-CS_·_2nd_year-4DAACC?style=flat-square&labelColor=0D1117)
+![role](https://img.shields.io/badge/co--founder-Thunderclap_Labs-FF5F1F?style=flat-square&labelColor=0D1117)
+![status](https://img.shields.io/badge/status-available_2026-4DAACC?style=flat-square&labelColor=0D1117)
 
-```
-             ,----------------,              ,---------,
-        ,-----------------------,          ,"        ,"|
-      ,"                      ,"|        ,"        ,"  |
-     +-----------------------+  |      ,"        ,"    |
-     |  .-----------------.  |  |     +---------+      |
-     |  |                 |  |  |     | -==----'|      |
-     |  |  Miglė          |  |  |     |         |      |
-     |  |  Cirtautaitė    |  |  |/----|`---=    |      |
-     |  |  builder        |  |  |   ,/|==== ooo |      ;
-     |  |  researcher     |  |  |  // |(((( [33]|    ,"
-     |  `-----------------'  |," .;'| |((((     |  ,"
-     +-----------------------+  ;;  | |         |,"   
-        /_)______________(_/  //'   | +---------+
-   ___________________________/___  `,
-  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
- / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
-/_==__==========__==_ooo__ooo=_/'   /___________,"
-`-----------------------------'                   
+I build software that runs close to the hardware: C services on OpenWrt routers, firmware for ESP32 and STM32 boards, and the backend and web tools around them. At Thunderclap Labs, a student R&D startup at Kaunas University of Technology, I work on embedded systems and hardware prototypes.
 
-```
-
-→ **[migle.cirtautai.lt](https://migle.cirtautai.lt)** for the full picture.
+[migle.cirtautai.lt](https://migle.cirtautai.lt) · [thunderclaplabs.com](https://thunderclaplabs.com)
 
 ---
 
-### Projects
+### Featured repositories
 
-| |  | |
+| Repository | What it is | Stack |
 |---|---|---|
-| ![](https://img.shields.io/badge/TW--01-ESA_PRIZE-4DAACC?style=flat-square&labelColor=0D1117) | **Thunder Wave** — GNSS-R ocean altimetry | `Python` `GNSS` |
-| ![](https://img.shields.io/badge/TB--002-EUDIS_WINNER-4DAACC?style=flat-square&labelColor=0D1117) | **ThunderBee** — defence interceptor UAV | `C++` `STM32` |
-| ![](https://img.shields.io/badge/TE--012-IN_DEV-FF5F1F?style=flat-square&labelColor=0D1117) | **ThunderEye** — dual-use AI optical detection | `YOLOv8` `Python` |
-| ![](https://img.shields.io/badge/TL--001-NASA_NOMINEE-4DAACC?style=flat-square&labelColor=0D1117) | **ThunderLink** — distributed ground station net | `SDR` `Next.js` |
-| ![](https://img.shields.io/badge/NDV--01-COMPLETE-334455?style=flat-square&labelColor=0D1117) | **NDVI Cam** — vegetation index camera | `Python` `RPi` |
-| ![](https://img.shields.io/badge/POL--V3-COMPLETE-334455?style=flat-square&labelColor=0D1117) | **Polargraph** — G-code wall plotter | `Arduino` `C++` |
+| [**teltonika_academy**](https://github.com/cmigle/teltonika_academy) | Embedded Linux work from the Teltonika Networks IoT Academy: a Tuya MQTT daemon, an OpenVPN monitor exposed over ubus, and a patch for OpenWrt's netifd | `C` `Lua` `OpenWrt` |
+| [**sostudy**](https://github.com/cmigle/sostudy) | Website for an on-demand maths tutoring service, with live tutor availability pulled from Google Calendar · [sostudy.lt](https://sostudy.lt) | `JavaScript` `Apps Script` |
+| [**Thunderclap-Labs/website**](https://github.com/Thunderclap-Labs/website) | The Thunderclap Labs company website · [thunderclaplabs.com](https://thunderclaplabs.com) | `Next.js` `TypeScript` |
 
----
+### Thunderclap Labs projects
 
-### Repos
+Team projects built with the Thunderclap Labs crew.
 
-[![Thunderclap Labs](https://img.shields.io/badge/Thunderclap--Labs/website-FF5F1F?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Thunderclap-Labs/website)
-[![Perkunas](https://img.shields.io/badge/cmigle/Perkunas--web-4DAACC?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/cmigle/Perkunas-web)
-[![CartBuddy](https://img.shields.io/badge/cmigle/Cartbuddy--Web-4DAACC?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/cmigle/Cartbuddy-Web)
-[![Portfolio](https://img.shields.io/badge/cmigle/portfolio.build-4DAACC?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/cmigle/portfolio.build)
+| Project | | Recognition | Stack |
+|---|---|---|---|
+| **Thunder Wave** | GNSS-R ocean altimetry | ![](https://img.shields.io/badge/ESA-prize-4DAACC?style=flat-square&labelColor=0D1117) | `Python` `GNSS` |
+| **ThunderBee** | Interceptor UAV | ![](https://img.shields.io/badge/EUDIS-winner-4DAACC?style=flat-square&labelColor=0D1117) | `C++` `STM32` |
+| [**ThunderLink**](https://github.com/Thunderclap-Labs/Thunderlink) | Distributed ground station network | ![](https://img.shields.io/badge/NASA_hackathon-global_nominee-4DAACC?style=flat-square&labelColor=0D1117) | `SDR` `Next.js` |
+| **ThunderEye** | AI optical detection | ![](https://img.shields.io/badge/status-prototype-334455?style=flat-square&labelColor=0D1117) | `Python` `YOLOv8` |
+| **NDVI Cam** | Vegetation index camera | ![](https://img.shields.io/badge/status-complete-334455?style=flat-square&labelColor=0D1117) | `Python` `Raspberry Pi` |
+| **Polargraph** | G-code wall plotter | ![](https://img.shields.io/badge/status-complete-334455?style=flat-square&labelColor=0D1117) | `Arduino` `C++` |
 
----
+### In progress
 
-```
-MC / THUNDERCLAP
-```
+Private for now. Links will follow when they go public.
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Done n Dusted** | REST API for a D&D-style productivity app: players log real-life progress and the group's Dungeon Master approves it. JWT access and refresh tokens, role-based authorisation | `Java` `Spring Boot` `PostgreSQL` |
+| **Animal cloning information system** | Team project taken from UML requirements to a working app: orders, DNA sample analysis, incubator assignment, staff workload. xUnit tests and CI | `C#` `ASP.NET Core MVC` `MySQL` |
+| **Kindle Home Hub** | E-ink desk dashboard for a non-jailbroken Kindle: an ESP32 pulls calendar, tasks and weather through Apps Script and serves pages on the local network | `C++` `ESP32` |
+
+Also on the way: **BigBrother**.
+
+### Tech
+
+**Languages:** C · C++ · Lua · Python · Java · C# · TypeScript · JavaScript
+
+**Embedded and systems:** Linux · OpenWrt / RutOS · ESP32 · STM32 · Raspberry Pi · MQTT · Make · CMake
+
+**Backend and web:** Spring Boot · ASP.NET Core · Next.js · PostgreSQL · MySQL
