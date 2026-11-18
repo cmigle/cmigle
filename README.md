@@ -18,6 +18,7 @@ I build software that runs close to the hardware: C services on OpenWrt routers,
 | Repository | What it is | Stack |
 |---|---|---|
 | [**teltonika_academy**](https://github.com/cmigle/teltonika_academy) | Embedded Linux work from the Teltonika Networks IoT Academy: a Tuya MQTT daemon, an OpenVPN monitor exposed over ubus, and a patch for OpenWrt's netifd | `C` `Lua` `OpenWrt` |
+| [**BigBrother**](https://github.com/cmigle/BigBrother) | Catches you on your phone with YOLOv8, fires an ESP32-driven Nerf blaster, and has a local LLM roast you based on your Google Calendar. Built with Ignas Mikolaitis | `Python` `YOLOv8` `Flask` `ESP32` |
 | [**sostudy**](https://github.com/cmigle/sostudy) | Website for an on-demand maths tutoring service, with live tutor availability pulled from Google Calendar · [sostudy.lt](https://sostudy.lt) | `JavaScript` `Apps Script` |
 | [**Thunderclap-Labs/website**](https://github.com/Thunderclap-Labs/website) | The Thunderclap Labs company website · [thunderclaplabs.com](https://thunderclaplabs.com) | `Next.js` `TypeScript` |
 
@@ -48,8 +49,6 @@ Private for now. Links will follow when they go public.
 | **Done n Dusted** | REST API for a D&D-style productivity app: players log real-life progress and the group's Dungeon Master approves it. JWT access and refresh tokens, role-based authorisation | `Java` `Spring Boot` `PostgreSQL` |
 | **Animal cloning information system** | Team project taken from UML requirements to a working app: orders, DNA sample analysis, incubator assignment, staff workload. xUnit tests and CI | `C#` `ASP.NET Core MVC` `MySQL` |
 | **Kindle Home Hub** | E-ink desk dashboard for a non-jailbroken Kindle: an ESP32 pulls calendar, tasks and weather through Apps Script and serves pages on the local network | `C++` `ESP32` |
-
-Also on the way: **BigBrother**.
 
 ### Tech
 
