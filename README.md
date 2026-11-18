@@ -31,8 +31,13 @@ Team projects built with the Thunderclap Labs crew.
 | **ThunderBee** | Interceptor UAV | ![](https://img.shields.io/badge/EUDIS-winner-4DAACC?style=flat-square&labelColor=0D1117) | `C++` `STM32` |
 | [**ThunderLink**](https://github.com/Thunderclap-Labs/Thunderlink) | Distributed ground station network | ![](https://img.shields.io/badge/NASA_hackathon-global_nominee-4DAACC?style=flat-square&labelColor=0D1117) | `SDR` `Next.js` |
 | **ThunderEye** | AI optical detection | ![](https://img.shields.io/badge/status-prototype-334455?style=flat-square&labelColor=0D1117) | `Python` `YOLOv8` |
-| **NDVI Cam** | Vegetation index camera | ![](https://img.shields.io/badge/status-complete-334455?style=flat-square&labelColor=0D1117) | `Python` `Raspberry Pi` |
-| **Polargraph** | G-code wall plotter | ![](https://img.shields.io/badge/status-complete-334455?style=flat-square&labelColor=0D1117) | `Arduino` `C++` |
+
+### Personal projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **NDVI Cam** | Vegetation index camera | `Python` `Raspberry Pi` |
+| **Polargraph** | G-code wall plotter | `Arduino` `C++` |
 
 ### In progress
 
