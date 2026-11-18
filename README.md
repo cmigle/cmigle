@@ -14,6 +14,7 @@ I build software that runs close to the hardware: C services on OpenWrt routers,
 |---|---|---|
 | [**teltonika_academy**](https://github.com/cmigle/teltonika_academy) | Embedded Linux work from the Teltonika Networks IoT Academy: a Tuya MQTT daemon, an OpenVPN monitor exposed over ubus, and a patch for OpenWrt's netifd | `C` `Lua` `OpenWrt` |
 | [**BigBrother**](https://github.com/cmigle/BigBrother) | Catches you on your phone with YOLOv8, fires an ESP32-driven Nerf blaster, and has a local LLM roast you based on your Google Calendar. Built with Ignas Mikolaitis | `Python` `YOLOv8` `Flask` `ESP32` |
+| [**inkcard**](https://github.com/cmigle/inkcard) | Business card that is a link and an e-ink screen: web editor with a pixel-exact preview, a card page with Save contact, and ESP32 firmware that receives the card over USB · [live](https://cmigle.github.io/inkcard/) | `JavaScript` `C++` `ESP32` |
 | [**sostudy**](https://github.com/cmigle/sostudy) | Website for an on-demand maths tutoring service, with live tutor availability pulled from Google Calendar · [sostudy.lt](https://sostudy.lt) | `JavaScript` `Apps Script` |
 | [**Thunderclap-Labs/website**](https://github.com/Thunderclap-Labs/website) | The Thunderclap Labs company website · [thunderclaplabs.com](https://thunderclaplabs.com) | `Next.js` `TypeScript` |
 
