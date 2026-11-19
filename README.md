@@ -1,6 +1,6 @@
 # Miglė Cirtautaitė
 
-**Embedded and systems developer · Computer Science at KTU · Co-founder of [Thunderclap Labs](https://thunderclaplabs.com)**
+**Computer Science at KTU · Co-founder of [Thunderclap Labs](https://thunderclaplabs.com)**
 
 I build software that runs close to the hardware: C services on OpenWrt routers, firmware for ESP32 and STM32 boards, and the backend and web tools around them. At Thunderclap Labs, a student R&D startup at Kaunas University of Technology, I work on embedded systems and hardware prototypes.
 
